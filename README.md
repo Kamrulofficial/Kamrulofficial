@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamrulofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Kamrulofficial" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elitekamrul" target="blank"><img src="https://img.shields.io/twitter/follow/kamrulofficials?logo=twitter&style=for-the-badge" alt="EliteKamrul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/elitekamrul" target="blank"><img src="https://img.shields.io/twitter/follow/Elitekamrul?logo=twitter&style=for-the-badge" alt="EliteKamrul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
